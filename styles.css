@@ -23,7 +23,7 @@ nav p{
 
 header{
     display: flex;
-  
+    width: 100%;
     box-shadow: 1px 1px 2px gray;
     align-items: center;
     border-bottom: 1px solid rgb(105, 96, 96);
