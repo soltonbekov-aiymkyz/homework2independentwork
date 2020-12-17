@@ -165,5 +165,17 @@ h6{
           padding-left: 1.5rem;                                    
       }
 
-      
+      .companyname{
+        margin-right: auto;
+    }
+    nav{
+      /*  display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;*/
+        margin-right: 1rem;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
   }
