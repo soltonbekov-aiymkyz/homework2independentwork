@@ -122,8 +122,16 @@ h6{
      .small{
             color:#6c757d;
             }
-    
             .ul{
                 padding-left: 0;
                 list-style: none;
                 }
+
+                .w-100 {
+                    
+                    padding: 15px 30px;
+                    font-size: 1.25rem;
+                    border-radius: .3rem;
+                    color: #0d6efd;
+                    
+                    }
