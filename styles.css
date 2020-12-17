@@ -169,13 +169,31 @@ h6{
         margin-right: auto;
     }
     nav{
-      /*  display: flex;
-        flex-direction: column;
-        text-align: center;
-        align-items: center;*/
         margin-right: 1rem;
         margin-top: 0;
         margin-bottom: 0;
     }
+    
+    div{
+        display: flex;
+        align-items: center;
+        justify-content: center; 
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+         justify-content: center;
+    }
+    col{
+        display: flex;
+        flex-direction: column;
+    }
+    .card{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
 
   }
