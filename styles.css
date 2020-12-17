@@ -108,3 +108,11 @@ h2{
     background-color: rgba(0,0,0,.03);
     border-bottom: 1px solid rgba(0,0,0,.125);
 }
+
+h6{
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+    line-height: 1.2;
+    }
