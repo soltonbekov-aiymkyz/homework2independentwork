@@ -116,7 +116,10 @@ h6{
     font-size: 30px;
     line-height: 1.2;
     }
-    
     .cardbody{
         padding: 1rem  1rem;
         }
+        
+        .small{
+            color:#6c757d;
+            }
