@@ -226,4 +226,7 @@ h6{
   .list-unstyled{
       list-style: none;
   }
-  
+  .link-secondary{
+      color: #6c757d;
+      
+  }
