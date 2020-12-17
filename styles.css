@@ -67,7 +67,6 @@ h2{
     line-height: 1.2;
     font-family: sans-serif;
 }
-
 .p{
     display: block;
     font-size: 1.25rem;
@@ -76,4 +75,9 @@ h2{
     margin-top: 0;
    margin-bottom: 1rem;
    text-align: center;
+}
+
+.row{
+    display: flex;
+   
 }
