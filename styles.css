@@ -87,8 +87,14 @@ h2{
 .col{
     /*  box-shadow:   0 2px 10px -2px black;*/
       /*flex-basis: calc(33% - 10px);*/
-    
     margin: 10px;
       /*margin-bottom: 20px;*/
       background-color: blanchedalmond; 
+}
+
+.card{
+   
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
 }
