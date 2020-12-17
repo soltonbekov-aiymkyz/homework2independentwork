@@ -36,10 +36,17 @@ header{
   border-radius: 4px;
     padding: 10px 20px;
 }
-
 .companyname{
     display: block;
    font-weight: 400;
    margin: 0;
     font-size: 1.25rem;
+}
+
+.main{
+    display: block;
+    max-width: 960px;
+    padding-right: .75rem;
+    padding-left: .75rem;
+   
 }
