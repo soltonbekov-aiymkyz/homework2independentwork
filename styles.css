@@ -154,3 +154,16 @@ h6{
                            border-color: blue;
                            background-color: blue;
                             }
+
+                
+@media(max-width:770px){
+    header{
+        display: flex;
+          flex-direction: column; 
+
+          padding-right: 1.5rem; 
+          padding-left: 1.5rem;                                    
+      }
+
+      
+  }
