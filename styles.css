@@ -91,7 +91,6 @@ h2{
       /*margin-bottom: 20px;*/
       background-color: blanchedalmond; 
 }
-
 .card{
    position: relative;
    display: flex;
@@ -101,4 +100,12 @@ h2{
     background-color: #fff;
     border: 1px solid rgba(0,0,0,.125);
     border-radius: .25rem;
+}
+
+.cardheader{
+    padding: .5rem 1rem;
+    
+    
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
 }
