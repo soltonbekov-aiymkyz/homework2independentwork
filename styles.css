@@ -126,7 +126,6 @@ h6{
                 padding-left: 0;
                 list-style: none;
                 }
-
                 .w-100 {
                     width: 100%;
                     padding: 15px 30px;
@@ -135,3 +134,12 @@ h6{
                     color: #0d6efd;
                     border-color: #0d6efd;
                     }
+    
+                    .w-200{
+                        width: 100%;
+                        padding: 15px 30px;
+                        font-size: 1.25rem;
+                        border-radius: .3rem;
+                        color: #fff;
+                       
+                        }
