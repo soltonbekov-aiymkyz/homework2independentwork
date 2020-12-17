@@ -42,7 +42,6 @@ header{
    margin: 0;
     font-size: 1.25rem;
 }
-
 .main{
     display: block;
     max-width: 960px;
@@ -50,4 +49,13 @@ header{
     padding-left: .75rem;
     margin-left: auto;
     margin-right: auto;
+}
+
+.div{
+    display: block;
+    max-width: 960px;
+   
+    padding-top: 3rem;
+    padding-left:1rem;
+    padding-right: 1rem;
 }
