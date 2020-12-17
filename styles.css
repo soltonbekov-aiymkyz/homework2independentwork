@@ -80,4 +80,5 @@ h2{
 .row{
     display: flex;
    flex-wrap: wrap;
+   text-align: center;
 }
