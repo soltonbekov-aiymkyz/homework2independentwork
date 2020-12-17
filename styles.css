@@ -211,3 +211,19 @@ h6{
      padding-top: 3rem;
 
   }
+  .col-6{
+      
+  }
+  h5{
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 1.2;  
+  }
+  .list-unstyled{
+      list-style: none;
+  }
+  
