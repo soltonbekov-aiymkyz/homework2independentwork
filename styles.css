@@ -59,7 +59,6 @@ header{
     padding-left:1rem;
     padding-right: 1rem;
 }
-
 h2{
     display: block;
     margin-top: 0;
@@ -67,4 +66,13 @@ h2{
     font-weight: 300;
     line-height: 1.2;
     font-family: sans-serif;
+}
+
+.p{
+    display: block;
+    font-size: 1.25rem;
+    font-weight: 300;
+    font-family: sans-serif;
+    margin-top: 0;
+   
 }
