@@ -119,7 +119,11 @@ h6{
     .cardbody{
         padding: 1rem  1rem;
         }
-        
-        .small{
+     .small{
             color:#6c757d;
             }
+    
+            .ul{
+                padding-left: 0;
+                list-style: none;
+                }
