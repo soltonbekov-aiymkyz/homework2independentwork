@@ -62,7 +62,7 @@ header{
 
 h2{
     display: block;
-    
+    margin-top: 0;
     margin-bottom: .5rem;
     font-weight: 300;
     line-height: 1.2;
